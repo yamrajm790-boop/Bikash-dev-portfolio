@@ -5,8 +5,8 @@ A visually immersive and interactive **personal portfolio website frontend**, de
 ---
 
 ## 🔗 Links
-- 🌐 **Live Demo:** [your-live-demo-url.com](https://yash-chauhan.vercel.app)]
-- 👨‍💻 **Author's Portfolio:** [yash-chauhan.vercel.app](https://yash-chauhan.vercel.app )
+- 🌐 **Live Demo:** [bikash-bindhani.vercel.app](https://bikash-bindhani.vercel.app)
+- 👨‍💻 **Author's Portfolio:** [bikash-bindhani.vercel.app](https://bikash-bindhani.vercel.app)
 
 ---
 
@@ -39,8 +39,12 @@ Please note that the 3D models used in this project were **purchased from a thir
 ---
 
 ## 👨‍💻 Author
-**Yash Chauhan**
-- GitHub: [@yashchauhan008](https://github.com/Yashchauhan008 )
-- LinkedIn: [yashchauhan](https://www.linkedin.com/in/yashchauhan008 )
+**Bikash Bindhani**
+- GitHub: [@bindhanibikash71](https://github.com/bindhanibikash71)
+- LinkedIn: [Bikash Bindhani](https://www.linkedin.com/in/bikash-bindhani-b739b3382)
+- Instagram: [@vixyiu._](https://www.instagram.com/vixyiu._)
+- Email: bikashbindhani71@gmail.com
+
+> This project is based on the open-source 3D portfolio design originally created by David Heckhoff, and has been customized by Bikash Bindhani.
 
 ---
